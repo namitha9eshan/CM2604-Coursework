@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CM2604-Coursework.iml" filepath="$PROJECT_DIR$/.idea/CM2604-Coursework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../machine_learning/.idea/machine_learning.iml" filepath="$PROJECT_DIR$/../../../../../../machine_learning/.idea/machine_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../machine_learning/Pandas/pandas-master/.idea/pandas-master.iml" filepath="$PROJECT_DIR$/../../../../../../machine_learning/Pandas/pandas-master/.idea/pandas-master.iml" />
     </modules>
   </component>
 </project>
